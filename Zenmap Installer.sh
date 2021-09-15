@@ -1,4 +1,4 @@
-# install ZenMap7.92 to Kali 5.10 by2021.9
+# install ZenMap7.92 to Kali 2021.8 by2021.9
 # for Mikey ;from mRr3b00t ;from FernGuardado
 #update repo info
 sudo apt update
