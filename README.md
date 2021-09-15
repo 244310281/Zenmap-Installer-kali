@@ -1,4 +1,4 @@
-# 基于Kali Linux系统（2021.2）安装Zenmap 7.92
+# 基于Kali Linux系统（2021.8）安装Zenmap 7.92
 
 #### 安装方法：
 
